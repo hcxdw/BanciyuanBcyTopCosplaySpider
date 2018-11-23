@@ -1,7 +1,7 @@
 # BanciyuanBcyTopCosplaySpider
-#1.爬虫说明
+# 1.爬虫说明
 Python爬虫实战 爬取半次元网站本周热门top100的cosplay图片
-#2.Python版本以及库说明
+# 2.Python版本以及库说明
 `Python3.7.1`Python版本
 `urlencode`可将字符串以URL编码，用于编码处理
 `bs4`解析html的利器
@@ -12,8 +12,9 @@ Python爬虫实战 爬取半次元网站本周热门top100的cosplay图片
 `html5lib`解析模块
 `lxml`解析模块
 `multiprocessing`多线程模块
-#2.IDE
+# 2.IDE
 `Pycharm`
-#3.浏览器页面检查工具
+# 3.浏览器页面检查工具
 `QQ浏览器`
-#4.爬虫详细过程
+# 4.爬虫详细过程
+博客园：[https://bcy.net/coser/toppost100](https://bcy.net/coser/toppost100)
