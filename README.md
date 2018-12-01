@@ -17,4 +17,4 @@ Python爬虫实战 爬取半次元网站本周热门top100的cosplay图片
 # 3.浏览器页面检查工具
 `QQ浏览器`
 # 4.爬虫详细过程
-博客园：[https://www.cnblogs.com/hlcoxndgw/p/10009515.html](https://www.cnblogs.com/hlcoxndgw/p/10009515.html)
+博客园：[https://www.jianshu.com/p/907265a4d317](https://www.jianshu.com/p/907265a4d317)
